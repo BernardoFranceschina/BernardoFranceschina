@@ -1,4 +1,3 @@
-![github  snake animation](https://raw.githubusercontent.com/BernardoFranceschina/BernardoFranceschina/output/github-contribution-grid-snake.svg)
 <h1 align="center">Olá 👋, Sou Bernardo Carlos Franceschina</h1>
 <h3 align="center">Bem-vindo(a) ao meu perfil!</h3>
  <p align="left">
@@ -118,6 +117,10 @@
     </a>
 </p>
 <h3 align="left">Estatísticas do GitHub:</h3>
+<div>
+    <p><img align="center" src="https://raw.githubusercontent.com/BernardoFranceschina/BernardoFranceschina/output/github-contribution-grid-snake.svg"
+            alt="Snake" /></p>
+</div>
 <div style="display: inline_block">
     <p><img align="center"
             src="https://github-readme-stats.vercel.app/api?username=BernardoFranceschina&count_private=true&theme=dark&show_icons=true&locale=en"
@@ -127,7 +130,7 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoFranceschina&theme=dark"
             alt="BernardoFranceschina" /></p>
 </div>
-![github contribution grid snake animation](https://raw.githubusercontent.com/BernardoFranceschina/BernardoFranceschina/output/github-contribution-grid-snake.svg)
+
 <!--<div style="display: inline_block"><br>
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardoFranceschina&theme=dark&show_icons=true&locale=en&layout=compact"
