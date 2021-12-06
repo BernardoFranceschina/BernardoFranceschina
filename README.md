@@ -131,7 +131,7 @@
             alt="BernardoFranceschina" /></p>
 </div>
 
-<!--<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardoFranceschina&theme=dark&show_icons=true&locale=en&layout=compact"
             alt="BernardoFranceschina" /></p>
