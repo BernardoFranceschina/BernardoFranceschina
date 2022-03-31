@@ -12,7 +12,7 @@
     </a>
 </p>
 <ul>
-    <li>Desenvolvedor Web na <a href="https://d3t.com.br/">D3T Softwares Personalizados</a> [2020 - 2022]</li>
+    <li>Desenvolvedor Web na <a href="https://d3t.com.br/">D3T Softwares Personalizados</a> [03/2020 - 04/2022]</li>
     <li>Graduando em Ciências da Computação pela <a href="https://ufsc.br">Universidade Federal de Santa Catarina - UFSC</a></li>
 </ul>
 <h3 align="left">Mídias Sociais e contato:</h3>
