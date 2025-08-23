@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bernardo Franceschina</h1>
 
-- 🔭 I’m currently working on [LISHA](https://lisha.ufsc.br/) [04/2024 - ...]
+- 🔭 I’m currently working on [LISHA](https://lisha.ufsc.br/) [04/2024...]
 
 - 💻 Web Developer at [D3T Softwares Personalizados](https://d3t.com.br/) [03/2020 - 04/2022]
 
-- 💼 Freelancer [NDPZ](https://ndpz.com.br/) [01/2022 - ...]
+- 💼 Freelancer [NDPZ](https://ndpz.com.br/) [01/2022...]
 
 - 🎓 Studying Computer Science at <a href="https://ufsc.br">Federal University of Santa Catarina - UFSC</a>
 
